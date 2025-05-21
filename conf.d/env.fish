@@ -1,0 +1,1 @@
+export SAFE_RM_PERM_DEL_FILES_IN_TRASH=yes
