@@ -50,3 +50,6 @@ set -g rpoc_time_prefix ''
 set -g rpoc_cmd_duration_disabled 1
 
 fzf_configure_bindings --history=\cr --processes=\cp --directory= --git_log= --git_status= --variables=
+
+# General env settings
+export SAFE_RM_PERM_DEL_FILES_IN_TRASH=yes
